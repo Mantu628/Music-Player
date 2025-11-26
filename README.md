@@ -25,7 +25,6 @@ A responsive and interactive web-based music player inspired by Spotify. Users c
 
 ## How to use
 - **Download link**:  
- https://github.com/woafi/Spotify-Like-Web-Music-Player/archive/refs/heads/master.zip
 - After downloading, extract the zip in a folder
 - Then open the **index.html** in vscode using the **live preview** extension of vscode
 - Enjoy the project
@@ -33,4 +32,4 @@ A responsive and interactive web-based music player inspired by Spotify. Users c
 
 > Link to live demo
 
---- http://spotifywebplayer.42web.io/
+--- https://music-playerwebapplication.vercel.app/
