@@ -24,7 +24,7 @@ A responsive and interactive web-based music player inspired by Spotify. Users c
 ---
 
 ## How to use
-- **Download link**:  
+- **Download link**: https://github.com/Mantu628/Music-Player/archive/refs/heads/main.zip
 - After downloading, extract the zip in a folder
 - Then open the **index.html** in vscode using the **live preview** extension of vscode
 - Enjoy the project
